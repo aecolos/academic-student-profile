@@ -29,7 +29,7 @@ item:
 widget_id: accomplish
 headless: true
 weight: 50
-title: Realizações
+title: Certificações
 subtitle: null
 design:
   columns: "2"
