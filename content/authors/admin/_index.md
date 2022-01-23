@@ -1,9 +1,10 @@
 ---
-role: Professor of Artificial Intelligence
+role: Professor de TIC
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Teoria da ComputaçãoeProgramação
+  - Teoria da Computação
+  - Programação
 social:
   - icon: envelope
     icon_pack: fas
