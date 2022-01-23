@@ -2,7 +2,7 @@
 role: Professor de TIC
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
-interests:
+interesses:
   - Teoria da Computação
   - Programação
 social:
@@ -24,7 +24,7 @@ social:
 organizations:
   - name: AEColos
     url: https://www.aecolos.pt/
-education:
+educação:
   courses:
     - course: BSc in Informática
       institution: Massachusetts Institute of Technology
