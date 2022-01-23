@@ -36,4 +36,4 @@ email: ""
 ---
 Nelson Bighetti é professor de TIC na Escola Básica Aviador Brito Paes em Colos, Odemira, sendo por inerência membro do departamento de Ciências e Tecnologias da mesma escola, e faz serviço de biblioteca. Os seus interesses incluêm ciência da computação e filosofia digital.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
