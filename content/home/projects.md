@@ -8,11 +8,11 @@ content:
   page_type: project
   filter_default: 0
   filter_button:
-    - name: All
+    - name: Todos
       tag: "*"
     - name: Deep Learning
       tag: Deep Learning
-    - name: Other
+    - name: Outros
       tag: Demo
 widget_id: projects
 design:

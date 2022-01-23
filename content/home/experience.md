@@ -10,19 +10,19 @@ experience:
     date_start: 2021-01-01
     date_end: ""
     description: |-2
-        Responsibilities include:
+        Responsibilidades:
         
-        * Analysing
-        * Modelling
-        * Deploying
-  - title: Professor of Semiconductor Physics
-    company: University X
+        * Análise
+        * Modelação
+        * Implantação
+  - title: Professor de Física de Semicondutores
+    company: Universidade X
     company_url: ""
     company_logo: org-x
     location: California
     date_start: 2016-01-01
     date_end: 2020-12-31
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: Ensino de engenharia electrónica e investigação em física de semicondutores
 widget_id: experience
 headless: true
 weight: 40

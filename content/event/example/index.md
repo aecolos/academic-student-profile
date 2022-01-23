@@ -2,7 +2,7 @@
 abstract: Sumário executivo
 slides: exemplo
 url_pdf: ""
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: Exemplo de palestra com slides em markdown
 date_end: 2030-06-01T15:00:00.000Z
 event_url: https://example.org
 authors: []

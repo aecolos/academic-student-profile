@@ -10,8 +10,8 @@ subtitle: ""
 date: 2020-12-13T00:00:00Z
 featured: false
 tags:
-  - Academic
-  - 开源
+  - Académico
+  - Código Aberto
 categories:
   - Demo
   - 教程
