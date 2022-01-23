@@ -13,7 +13,7 @@ url_project: ""
 author_notes:
   - Equal contribution
   - Equal contribution
-publication_short: In *ECC*
+publication_short: Em *ECC*
 url_source: ""
 url_video: ""
 publication: Em *Conferência Colos*
